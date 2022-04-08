@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ocestari.github.io/csb-4i9w0g/static/css/main.bb3619b8.chunk.css",
+    "main.js": "https://ocestari.github.io/csb-4i9w0g/static/js/main.767a8788.chunk.js",
+    "main.js.map": "https://ocestari.github.io/csb-4i9w0g/static/js/main.767a8788.chunk.js.map",
+    "runtime-main.js": "https://ocestari.github.io/csb-4i9w0g/static/js/runtime-main.3b2f9289.js",
+    "runtime-main.js.map": "https://ocestari.github.io/csb-4i9w0g/static/js/runtime-main.3b2f9289.js.map",
+    "static/js/2.390a6dcc.chunk.js": "https://ocestari.github.io/csb-4i9w0g/static/js/2.390a6dcc.chunk.js",
+    "static/js/2.390a6dcc.chunk.js.map": "https://ocestari.github.io/csb-4i9w0g/static/js/2.390a6dcc.chunk.js.map",
+    "index.html": "https://ocestari.github.io/csb-4i9w0g/index.html",
+    "static/css/main.bb3619b8.chunk.css.map": "https://ocestari.github.io/csb-4i9w0g/static/css/main.bb3619b8.chunk.css.map",
+    "static/js/2.390a6dcc.chunk.js.LICENSE.txt": "https://ocestari.github.io/csb-4i9w0g/static/js/2.390a6dcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b2f9289.js",
+    "static/js/2.390a6dcc.chunk.js",
+    "static/css/main.bb3619b8.chunk.css",
+    "static/js/main.767a8788.chunk.js"
+  ]
+}
